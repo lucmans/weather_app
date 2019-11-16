@@ -9,3 +9,14 @@ html, body {
 	display: block;  /* No floating content on sides */
 	-webkit-user-select: none;  /* Disable selecting text */
 }
+
+.bottom-right {
+	font-size: 12px;
+	position: absolute;
+	bottom: 5px;
+	right: 10px;
+}
+
+a {
+	color: #000000;
+}
